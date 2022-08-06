@@ -18,7 +18,6 @@ This portfolio of work summarises some of the key projects covered.
 
 #### GameCo    
 An analysis for a global video game company
-https://github.com/amypal/amypal.github.io/blob/a2eed31088fe4b29dae182a924ff1085bb03482f/Screenshot%202022-08-06%20at%2013.30.43.png
 
 
 
