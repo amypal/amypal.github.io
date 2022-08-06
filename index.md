@@ -6,6 +6,8 @@ I recently completed an intensive project-based, online Data Analytics program w
 
 This portfolio of work summarises some of the key projects covered.
 
+https://github.co./amypal/amypal.github.io/Projects
+
 ### Projects
 
 #### GameCo    
