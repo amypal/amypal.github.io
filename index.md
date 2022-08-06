@@ -1,9 +1,3 @@
----
-layout: page
-title: "Portfolio"
-permalink: https://github.co./amypal/amypal.github.io/portfolio
----
-
 ### About me 
 I have a passion for data and revealing insights through visualisations and storytelling. My background is in Retail Management, where I gained a wide range of experience in people management, developing others and training. It was in this role that I developed a keen eye for detail and forensic approach to solving a problem, leading me to renew the Retail POS database and software and develop Excel forecasting workbooks and a Power BI reporting solution for the retail management team.
 The process of learning whilst implementing a solution to improve business reporting, revealed a strong desire to continue seeking insights from data and ultimately, a career change into Data Analytics. 
@@ -34,3 +28,4 @@ Marketing strategy for an online grocery company
 #### Natural Disasters		 
 Global natural disasters occurring between 1970 and 2021
 
+![Screenshot 2022-08-06 at 13 38 32](https://user-images.githubusercontent.com/106022246/183249773-5ef4321e-3f36-4ab6-aedb-5763e69362ad.png)
