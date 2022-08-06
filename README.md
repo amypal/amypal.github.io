@@ -2,7 +2,7 @@
 layout: page
 title: "Projects"
 ---
-# Projects
+# Porfolio Projects
 
 ## Tableau and SQL 
 ###Provide key insights to inform the online rental launch strategy for  Rockbuster, a film rental company using SQL
