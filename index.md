@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+### About me 
+I have a passion for data and revealing insights through visualisations and storytelling. My background is in Retail Management, where I gained a wide range of experience in people management, developing others and training. It was in this role that I developed a keen eye for detail and forensic approach to solving a problem, leading me to renew the Retail POS database and software and develop Excel forecasting workbooks and a Power BI reporting solution for the retail management team.
+The process of learning whilst implementing a solution to improve business reporting, revealed a strong desire to continue seeking insights from data and ultimately, a career change into Data Analytics. 
 
-You can use the [editor on GitHub](https://github.com/amypal/amypal.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I recently completed an intensive project-based, online Data Analytics program with Career Foundry. The course covered fundamental analytical skills, from developing a hypothesis to descriptive statistics and exploratory analysis, to predictive analysis, using key tools, such as SQL, Python and Tableau.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amypal/amypal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This portfolio of work summarises some of the key projects covered.
