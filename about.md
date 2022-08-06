@@ -18,9 +18,10 @@ This portfolio of work summarises some of the key projects covered.
 
 #### GameCo    
 An analysis for a global video game company
-![image](https://user-images.githubusercontent.com/106022246/183248713-8f58b0aa-6ea8-4680-be03-a048d926997c.png)
-![image](https://user-images.githubusercontent.com/106022246/183248780-cb128376-dc7f-4509-913c-919a4c1501d2.png)
-![image](https://user-images.githubusercontent.com/106022246/183248797-533642d1-7726-4fc4-86a2-d06c1a46ab47.png)
+https://github.com/amypal/amypal.github.io/blob/a2eed31088fe4b29dae182a924ff1085bb03482f/Screenshot%202022-08-06%20at%2013.30.43.png
+
+
+
 
 #### Census & CDC data   
 Preparing for the next flu season in the United States
