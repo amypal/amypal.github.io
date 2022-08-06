@@ -1,4 +1,3 @@
-
 ## About me 
 I have a passion for data and revealing insights through visualisations and storytelling. My background is in Retail Management, where I gained a wide range of experience in people management, developing others and training. It was in this role that I developed a keen eye for detail and forensic approach to solving a problem, leading me to renew the Retail POS database and software and develop Excel forecasting workbooks and a Power BI reporting solution for the retail management team.
 The process of learning whilst implementing a solution to improve business reporting, revealed a strong desire to continue seeking insights from data and ultimately, a career change into Data Analytics. 
@@ -6,7 +5,6 @@ The process of learning whilst implementing a solution to improve business repor
 I recently completed an intensive project-based, online Data Analytics program with Career Foundry. The course covered fundamental analytical skills, from developing a hypothesis to descriptive statistics and exploratory analysis, to predictive analysis, using key tools, such as SQL, Python and Tableau.
 
 This portfolio of work summarises some of the key projects covered.
-
 
 
 ## Projects
@@ -54,3 +52,6 @@ This portfolio of work summarises some of the key projects covered.
 
 ![Screenshot 2022-08-06 at 13 38 32](https://user-images.githubusercontent.com/106022246/183249773-5ef4321e-3f36-4ab6-aedb-5763e69362ad.png)
 
+## CV
+
+[Amy_CV.pdf](https://github.com/amypal/amypal.github.io/files/9275636/Amy_CV.pdf)
