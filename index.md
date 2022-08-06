@@ -1,4 +1,4 @@
-### About me 
+## About me 
 I have a passion for data and revealing insights through visualisations and storytelling. My background is in Retail Management, where I gained a wide range of experience in people management, developing others and training. It was in this role that I developed a keen eye for detail and forensic approach to solving a problem, leading me to renew the Retail POS database and software and develop Excel forecasting workbooks and a Power BI reporting solution for the retail management team.
 The process of learning whilst implementing a solution to improve business reporting, revealed a strong desire to continue seeking insights from data and ultimately, a career change into Data Analytics. 
 
@@ -6,11 +6,11 @@ I recently completed an intensive project-based, online Data Analytics program w
 
 This portfolio of work summarises some of the key projects covered.
 
-https://github.co./amypal/amypal.github.io/Projects
 
-### Projects
 
-#### GameCo    
+## Projects
+
+### GameCo    
 An analysis for a global video game company
 
 ![Screenshot 2022-08-06 at 13 30 43](https://user-images.githubusercontent.com/106022246/183250078-7c92c2bb-fbcb-4ee3-97cf-8802fb4f5429.png)
@@ -19,7 +19,7 @@ An analysis for a global video game company
 
 ![Screenshot 2022-08-06 at 13 32 18](https://user-images.githubusercontent.com/106022246/183250085-178138de-5309-4f2b-bd92-ae008415b8ab.png)
 
-#### Census & CDC data   
+### Census & CDC data   
 Preparing for the next flu season in the United States
 
 ![Screenshot 2022-08-06 at 13 32 35](https://user-images.githubusercontent.com/106022246/183250091-7b37eae2-072d-4c36-b12f-3fe08c9dd0f9.png)
@@ -29,7 +29,7 @@ Preparing for the next flu season in the United States
 ![Screenshot 2022-08-06 at 13 33 09](https://user-images.githubusercontent.com/106022246/183250102-4b9346e8-64de-4504-8bdd-99a7321451b7.png)
 ![Screenshot 2022-08-06 at 13 33 20](https://user-images.githubusercontent.com/106022246/183250114-26c57a9d-4b0c-403c-85eb-3827aa4ad664.png)
 
-#### Rockbuster     
+### Rockbuster     
 Answering business questions for a Global film rental company
 
 ![Screenshot 2022-08-06 at 13 33 32](https://user-images.githubusercontent.com/106022246/183250123-0d5ded06-f11e-480c-8dbe-77a373d01ae7.png)
@@ -38,7 +38,7 @@ Answering business questions for a Global film rental company
 
 ![Screenshot 2022-08-06 at 13 34 07](https://user-images.githubusercontent.com/106022246/183250133-3ea5dcd2-8705-4a6d-9160-b41c4d12388b.png)
 
-#### Instacart     
+### Instacart     
 Marketing strategy for an online grocery company 
 
 ![Screenshot 2022-08-06 at 13 34 22](https://user-images.githubusercontent.com/106022246/183250140-44feb46d-2cc2-44ef-898a-cd8c6d3a64b9.png)
