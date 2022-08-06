@@ -2,3 +2,18 @@ theme: jekyll-theme-slate
 title: Amy Palomino 
 description: Portfolio
 
+# Layout
+
+show_social: true 
+
+# Menu 
+
+navigation:
+  - {file: "index.md", titles: "Home", icon: home}
+  - {file: "README.md", titles: "Projects", icon: address-card}
+  - {file: "Amy_CV.pdf", titles: "CV", icon: address-card}
+
+external:               # see http://fontawesome.com.icons
+- {title: Mail, icon: envelope,url:"mailto.amy.pal@outlook.com"}
+- {title: Github, icon: github,url:"https://github.com/amypal"}
+- {title: Mail, icon: envelope,url:"https://linkedin.com/in/amy-palomino-92894a221m"}
