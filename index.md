@@ -1,4 +1,4 @@
-# Portfolio of Work 
+
 
 ## About me 
 I have a passion for data and revealing insights through visualisations and storytelling. My background is in Retail Management, where I gained a wide range of experience in people management, developing others and training. It was in this role that I developed a keen eye for detail and forensic approach to solving a problem, leading me to renew the Retail POS database and software and develop Excel forecasting workbooks and a Power BI reporting solution for the retail management team.
