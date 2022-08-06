@@ -8,50 +8,27 @@ This portfolio of work summarises some of the key projects covered.
 
 
 ## Projects
+![Screenshot 2022-08-06 at 21 05 04](https://user-images.githubusercontent.com/106022246/183264746-77e16e86-eff9-4050-8c78-8d096837f3f1.png)
+![Screenshot 2022-08-06 at 21 05 17](https://user-images.githubusercontent.com/106022246/183264749-a9ec10b6-be81-4990-98cc-b5180ceda36e.png)
+![Screenshot 2022-08-06 at 21 05 24](https://user-images.githubusercontent.com/106022246/183264751-b0316390-e97d-4365-b897-2964359902a4.png)
+![Screenshot 2022-08-06 at 21 05 31](https://user-images.githubusercontent.com/106022246/183264755-8ed715d0-6579-4684-a413-3a41110a61a1.png)
 
+![Screenshot 2022-08-06 at 21 04 42](https://user-images.githubusercontent.com/106022246/183264688-12af8418-11c5-495a-b55c-845a50c77324.png)
+![Screenshot 2022-08-06 at 21 04 48](https://user-images.githubusercontent.com/106022246/183264692-ce097d2b-bbc4-4148-a14a-3c7cd986df20.png)
+![Screenshot 2022-08-06 at 21 04 56](https://user-images.githubusercontent.com/106022246/183264695-e2a39772-f866-4029-a54e-cd0d896298c6.png)
 
-![Screenshot 2022-08-06 at 13 30 43](https://user-images.githubusercontent.com/106022246/183250078-7c92c2bb-fbcb-4ee3-97cf-8802fb4f5429.png)
+![Screenshot 2022-08-06 at 21 04 17](https://user-images.githubusercontent.com/106022246/183264712-96cec1d5-d526-4e2b-b6f5-124f18d0abc1.png)
+![Screenshot 2022-08-06 at 21 04 24](https://user-images.githubusercontent.com/106022246/183264717-33dde497-b80c-47dc-96c4-9fb8d7b84c82.png)
+![Screenshot 2022-08-06 at 21 04 31](https://user-images.githubusercontent.com/106022246/183264718-80ee1ffc-3a89-4c2c-85e7-62db2367ddb6.png)
 
-![Screenshot 2022-08-06 at 13 31 59](https://user-images.githubusercontent.com/106022246/183250080-68c672f5-cf60-4bd9-9fdc-aa65d7887ead.png)
+![Screenshot 2022-08-06 at 21 01 47](https://user-images.githubusercontent.com/106022246/183264658-80830bc7-a904-490c-9cea-fc615bfa57c1.png)
+![Screenshot 2022-08-06 at 21 02 04](https://user-images.githubusercontent.com/106022246/183264659-1bfe1ba6-f2ca-4477-bf54-79e59e08ce56.png)
+![Screenshot 2022-08-06 at 21 02 10](https://user-images.githubusercontent.com/106022246/183264663-fafc9c1f-a3d2-4f23-9cb2-71084bddb58e.png)
 
-![Screenshot 2022-08-06 at 13 32 18](https://user-images.githubusercontent.com/106022246/183250085-178138de-5309-4f2b-bd92-ae008415b8ab.png)
-
-
-![Screenshot 2022-08-06 at 13 32 35](https://user-images.githubusercontent.com/106022246/183250091-7b37eae2-072d-4c36-b12f-3fe08c9dd0f9.png)
-
-![Screenshot 2022-08-06 at 13 32 48](https://user-images.githubusercontent.com/106022246/183250096-111b463d-8ef9-4699-a98c-2c0733b1d0a3.png)
-
-![Screenshot 2022-08-06 at 13 33 09](https://user-images.githubusercontent.com/106022246/183250102-4b9346e8-64de-4504-8bdd-99a7321451b7.png)
-![Screenshot 2022-08-06 at 13 33 20](https://user-images.githubusercontent.com/106022246/183250114-26c57a9d-4b0c-403c-85eb-3827aa4ad664.png)
-
-
-
-![Screenshot 2022-08-06 at 13 33 32](https://user-images.githubusercontent.com/106022246/183250123-0d5ded06-f11e-480c-8dbe-77a373d01ae7.png)
-
-![Screenshot 2022-08-06 at 13 33 44](https://user-images.githubusercontent.com/106022246/183250129-68165e95-52eb-498c-853b-32579c6ab4e7.png)
-
-![Screenshot 2022-08-06 at 13 34 07](https://user-images.githubusercontent.com/106022246/183250133-3ea5dcd2-8705-4a6d-9160-b41c4d12388b.png)
-
-
-
-![Screenshot 2022-08-06 at 13 34 22](https://user-images.githubusercontent.com/106022246/183250140-44feb46d-2cc2-44ef-898a-cd8c6d3a64b9.png)
-
-![Screenshot 2022-08-06 at 13 34 39](https://user-images.githubusercontent.com/106022246/183250145-18d7807d-e3a0-4fc3-b864-60b3ac5ddbf0.png)
-
-![Screenshot 2022-08-06 at 13 34 49](https://user-images.githubusercontent.com/106022246/183250149-a3e375ed-d8e1-4771-a2ba-2fe26c4ed993.png)
-![Screenshot 2022-08-06 at 13 34 56](https://user-images.githubusercontent.com/106022246/183250151-d7371ebb-9815-43ef-9c76-b2fe642fad02.png)
-
-
-![Screenshot 2022-08-06 at 13 35 11](https://user-images.githubusercontent.com/106022246/183250156-448326b7-327f-4263-9ca4-a215904fce1a.png)
-
-![Screenshot 2022-08-06 at 13 35 23](https://user-images.githubusercontent.com/106022246/183250161-f34d85ff-fff5-47f5-b9cc-e75e276956dc.png)
-
-![Screenshot 2022-08-06 at 13 35 55](https://user-images.githubusercontent.com/106022246/183250169-0c5d1c4a-0162-4758-8aa1-988042232d32.png)
-
-![Screenshot 2022-08-06 at 13 36 34](https://user-images.githubusercontent.com/106022246/183250176-97b9fc99-1b82-4b8d-8ea2-9389f1ca30fb.png)
-
-![Screenshot 2022-08-06 at 13 38 32](https://user-images.githubusercontent.com/106022246/183249773-5ef4321e-3f36-4ab6-aedb-5763e69362ad.png)
+![Screenshot 2022-08-06 at 21 21 53](https://user-images.githubusercontent.com/106022246/183264966-74134c32-e0ba-4d05-90c5-bbecd40fb70d.png)
+![Screenshot 2022-08-06 at 21 22 00](https://user-images.githubusercontent.com/106022246/183264968-49c38986-51ad-4f5a-bef7-53e6cb01c07b.png)
+![Screenshot 2022-08-06 at 21 22 06](https://user-images.githubusercontent.com/106022246/183264970-514bd725-d3fa-42f1-accc-d7e18398e49a.png)
 
 ## CV
 
-[Amy_CV.pdf](https://github.com/amypal/amypal.github.io/files/9275636/Amy_CV.pdf)
+[Amy_Palomino](https://github.com/amypal/amypal.github.io/files/9275636/Amy_CV.pdf)
