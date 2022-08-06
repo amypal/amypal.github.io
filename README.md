@@ -1,7 +1,12 @@
+---
+layout: page
+title: "Projects"
+permalink: https://github.co./amypal/amypal.github.io/Projects
+---
+
 # amypal.github.io
 
-### Amy Palomino 
-## Portfolio of work 
+## Projects
 
 - GameCo    
   -  An analysis for a global video game company
