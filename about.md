@@ -11,3 +11,16 @@ The process of learning whilst implementing a solution to improve business repor
 I recently completed an intensive project-based, online Data Analytics program with Career Foundry. The course covered fundamental analytical skills, from developing a hypothesis to descriptive statistics and exploratory analysis, to predictive analysis, using key tools, such as SQL, Python and Tableau.
 
 This portfolio of work summarises some of the key projects covered.
+
+## Projects
+
+- GameCo    
+  -  An analysis for a global video game company
+- Census & CDC data    
+  - Preparing for the next flu season in the United States
+- Rockbuster     
+  - Answering business questions for a Global film rental company
+- Instacart     
+  - Marketing strategy for an online grocery company 
+- Natural Disasters		 
+  - Global natural disasters occurring between 1970 and 2021
