@@ -7,7 +7,7 @@ I recently completed an intensive project-based, online Data Analytics program w
 This portfolio of work summarises some of the key projects covered.
 
 
-## Projects
+## Portfolio of Work 
 
 
 ![ND 1](https://user-images.githubusercontent.com/106022246/183281675-8353b34b-8f60-4f8d-8fc4-c93112a3aadb.png)
