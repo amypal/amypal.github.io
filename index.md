@@ -31,7 +31,7 @@ This portfolio of work summarises some of the key projects covered.
 ![CD 2](https://user-images.githubusercontent.com/106022246/183281718-465e40c1-6f08-4a4d-b285-19f490a1f1fd.png)
 ![CD 3](https://user-images.githubusercontent.com/106022246/183281719-545c0c64-4bd9-4de6-bbba-f883103e35e8.png)
 
-#### To see the ['code'](https://github.com/amypal) and ['storyboards'](https://public.tableau.com/app/profile/amy.palomino)
+Check out the [code](https://github.com/amypal) and [storyboards](https://public.tableau.com/app/profile/amy.palomino)
 
 ## Contact Me 
 - <amy.pal@outlook.com>
@@ -39,4 +39,4 @@ This portfolio of work summarises some of the key projects covered.
 
 ## CV
 
-['Amy Palomino'](https://github.com/amypal/amypal.github.io/files/9275636/Amy_CV.pdf)
+[Amy Palomino](https://github.com/amypal/amypal.github.io/files/9275636/Amy_CV.pdf)
