@@ -1,21 +1,5 @@
 ---
 theme: jekyll-theme-modernist
-title: Amy Palomino     
-description: Portfolio of work
+title: AMY PALOMINO  
+description: Data Analyst
 ---
-
-# Layout
-
-show_social: true 
-
-# Menu 
-
-navigation:
-  - {file: "index.md", titles: "Home", icon: home}
-  - {file: "README.md", titles: "Projects", icon: address-card}
-  - {file: "Amy_CV.pdf", titles: "CV", icon: address-card}
-
-external:               # see http://fontawesome.com.icons
-- {title: Mail, icon: envelope,url:"mailto.amy.pal@outlook.com"}
-- {title: Github, icon: github,url:"https://github.com/amypal"}
-- {title: Linkedin, icon: IN,url:"https://linkedin.com/in/amy-palomino-92894a221m"}
