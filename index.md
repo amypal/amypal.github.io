@@ -7,6 +7,10 @@ I recently completed an intensive online Data Analytics program with Career Foun
 
 This portfolio of work summarises some of the key projects covered.
 
+You can contact me at 
+- <amy.pal@outlook.com>
+- [Linkedin](https://www.linkedin.com/in/amy-palomino/)
+or view my CV [Amy Palomino](https://github.com/amypal/amypal.github.io/files/9275636/Amy_CV.pdf)
 
 ## Portfolio of Work 
 
