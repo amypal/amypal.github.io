@@ -41,8 +41,7 @@ See the [code](https://github.com/amypal/CF_SQL_Rockbuster) and [storyboard](htt
 ![CD 1](https://user-images.githubusercontent.com/106022246/183281717-5a145250-1e4b-49d9-8e68-29247d55c0b7.png)
 ![CD 2](https://user-images.githubusercontent.com/106022246/183281718-465e40c1-6f08-4a4d-b285-19f490a1f1fd.png)
 ![CD 3](https://user-images.githubusercontent.com/106022246/183281719-545c0c64-4bd9-4de6-bbba-f883103e35e8.png)
-
-Check out the [code](https://github.com/amypal) and [storyboards](https://public.tableau.com/app/profile/amy.palomino)
+See the [storyboard](https://public.tableau.com/app/profile/amy.palomino)
 
 ## Contact Me 
 - <amy.pal@outlook.com>
