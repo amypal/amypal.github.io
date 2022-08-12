@@ -7,7 +7,7 @@ The experience of learning whilst implementing a solution to improve business re
 #### You can contact me at 
 - <amy.pal@outlook.com>
 - [Linkedin](https://www.linkedin.com/in/amy-palomino/)
-- or view my CV [Amy Palomino](https://github.com/amypal/amypal.github.io/files/9275636/Amy_CV.pdf)
+- or view my [CV](https://github.com/amypal/amypal.github.io/files/9275636/Amy_CV.pdf)
 
 
 I recently completed an intensive online Data Analytics program with Career Foundry. The course covered fundamental analytical skills, from developing a hypothesis to descriptive statistics and exploratory analysis, to predictive analysis, using key tools, such as SQL, Python and Tableau.
