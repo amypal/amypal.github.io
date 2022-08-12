@@ -4,10 +4,10 @@ I have a passion for data and revealing insights through visualisations and stor
 The experience of learning whilst implementing a solution to improve business reporting, revealed a strong desire to continue seeking insights from data and ultimately, a career change into Data Analytics. 
 
 
-You can contact me at 
+#### You can contact me at 
 - <amy.pal@outlook.com>
 - [Linkedin](https://www.linkedin.com/in/amy-palomino/)
-or view my CV [Amy Palomino](https://github.com/amypal/amypal.github.io/files/9275636/Amy_CV.pdf
+- or view my CV [Amy Palomino](https://github.com/amypal/amypal.github.io/files/9275636/Amy_CV.pdf)
 
 
 I recently completed an intensive online Data Analytics program with Career Foundry. The course covered fundamental analytical skills, from developing a hypothesis to descriptive statistics and exploratory analysis, to predictive analysis, using key tools, such as SQL, Python and Tableau.
