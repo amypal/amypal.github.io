@@ -4,10 +4,8 @@ I have a passion for data and revealing insights through visualisations and stor
 The experience of learning whilst implementing a solution to improve business reporting, revealed a strong desire to continue seeking insights from data and ultimately, a career change into Data Analytics. 
 
 
-#### You can contact me at 
-- <amy.pal@outlook.com>
-- [Linkedin](https://www.linkedin.com/in/amy-palomino/)
-- or view my [CV](https://github.com/amypal/amypal.github.io/files/9275636/Amy_CV.pdf)
+#### You can contact me on [Linkedin](https://www.linkedin.com/in/amy-palomino/)
+
 
 
 I recently completed an intensive online Data Analytics program with Career Foundry. The course covered fundamental analytical skills, from developing a hypothesis to descriptive statistics and exploratory analysis, to predictive analysis, using key tools, such as SQL, Python and Tableau.
@@ -44,11 +42,3 @@ See the [code](https://github.com/amypal/CF_SQL_Rockbuster) and [storyboard](htt
 ![CD 2](https://user-images.githubusercontent.com/106022246/183281718-465e40c1-6f08-4a4d-b285-19f490a1f1fd.png)
 ![CD 3](https://user-images.githubusercontent.com/106022246/183281719-545c0c64-4bd9-4de6-bbba-f883103e35e8.png)
 See the [storyboard](https://public.tableau.com/app/profile/amy.palomino)
-
-## Contact Me 
-- <amy.pal@outlook.com>
-- [Linkedin](https://www.linkedin.com/in/amy-palomino/)
-
-## CV
-
-[Amy Palomino](https://github.com/amypal/amypal.github.io/files/9275636/Amy_CV.pdf)
